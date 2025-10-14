@@ -4,11 +4,11 @@ main:
   # - title: "Research"
   #   url: /research/
     
-  # - title: "Team"
-  #   url: /team/
+  - title: "Team"
+    url: /team/
 
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Publications"
+    url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
@@ -19,7 +19,8 @@ main:
   # - title: "Services"
   #   url: /services/
 
-  # - title: "Vacancies"
-  #   url: /vacancies/
-  # - title: "Outreach"
-  #   url: /outreach/
+  - title: "Vacancies"
+    url: /vacancies/
+
+  - title: "Contact"
+    url: /contact/
