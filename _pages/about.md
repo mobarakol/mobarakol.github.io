@@ -13,10 +13,23 @@ redirect_from:
  </p>
 </div> -->
 
+<span style="color:red">Opening</span>
+---
+<!-- <font color="red"> -->
+⭐ New PhD Opportunity (Fully Funded via MRC DTP) ⭐<br>
+Excited to push the frontier of AI in healthcare? 🧠 Join us!<br>
+
+My group is looking for a motivated PhD candidate to develop longitudinal multimodal LLM agents for the early detection of prostate cancer progression.<br>
+
+We are particularly interested in candidates with a solid background in AI/LLM, medical imaging, computer vision, or machine learning, preferably with prior research experience or publications.<br>
+
+📩 Interested? Contact me to discuss suitability before applying via: [MRC DTP PhD Programme](https://www.findaphd.com/phds/project/mrc-dtp-early-detection-of-prostate-cancer-progression-with-longitudinal-multimodal-llm-agents/?p187159)
+<!-- </font> -->
+
 Bio
 ---
 
-Dr Mobarak Hoque is an Associate Professor (Senior Lecturer) in Multimodal Agentic AI for Healthcare, at the Division of Informatics, Imaging and Data Science, [University of manchester](https://www.manchester.ac.uk/). He also currently appointed as an honorary senior research fellow positions at University College London. He holds a PhD from the National University of Singapore and was a postdoctoral researcher at the Hawkes Institute at UCL, and the BioMedIA group at Imperial College London. Before his academic career, he gained extensive industry experience in real-world translation of machine learning and computer vision research as a Senior Software Engineer at Samsung R&D Institute.
+Dr Mobarak Hoque is an Associate Professor (Senior Lecturer) in Multimodal Agentic AI for Healthcare, at the Division of Informatics, Imaging and Data Science, [University of manchester](https://www.manchester.ac.uk/). He also currently appointed as an honorary senior research fellow positions at University College London. He holds a PhD in AI from the National University of Singapore and was a postdoctoral researcher at the Hawkes Institute at UCL, and the BioMedIA group at Imperial College London. Before his academic career, he gained extensive industry experience in real-world translation of machine learning and computer vision research as a Senior Software Engineer at Samsung R&D Institute.
 
 
 Research Interests
