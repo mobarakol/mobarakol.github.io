@@ -83,8 +83,8 @@ author:
   name             : "Mobarak Hoque"
   avatar           : "mobarak.png"
   bio              : "Associate Professor (Senior Lecturer) in Multimodal Agentic AI for Healthcare"
-  location         :  Manchester, UK
-  employer         : "University of Manchester"
+  location         :  #Manchester, UK
+  employer         : "University of Manchester, UK"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.sg/citations?user=QUwym50AAAAJ&hl=en"
   email            :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@MobarakolI"
+  twitter          : #"@MobarakolI"
   vine             :
   weibo            :
   xing             :

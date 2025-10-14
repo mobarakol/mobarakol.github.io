@@ -13,9 +13,9 @@ redirect_from:
  </p>
 </div> -->
 
-<span style="color:red">Opening</span>
+<span style="color:red">Opening ✨</span>
 ---
-<!-- <font color="red"> -->
+<!-- <marquee scrollamount="4">⭐ latest updates ⭐</marquee> -->
 ⭐ New PhD Opportunity (Fully Funded via MRC DTP) ⭐<br>
 Excited to push the frontier of AI in healthcare? 🧠 Join us!<br>
 
