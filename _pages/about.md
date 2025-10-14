@@ -1,35 +1,31 @@
 ---
 permalink: /
-# title: "Mobarak Hoque"
+title: <marquee scrollamount="4"><span style="color:red">⭐New PhD Openings [Fully Funded] ✨</span></marquee>
 # excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<!-- <div class="motto-section">
- <p class="motto">
-  Be water. 
- </p>
-</div> -->
 
-<span style="color:red">Opening ✨</span>
----
-<!-- <marquee scrollamount="4">⭐ latest updates ⭐</marquee> -->
-⭐ New PhD Opportunity (Fully Funded via MRC DTP) ⭐<br>
-Excited to push the frontier of AI in healthcare? 🧠 Join us!<br>
+<!-- # <marquee scrollamount="4"><span style="color:red">⭐New PhD Openings [Fully Funded] ✨</span></marquee> -->
 
-My group is looking for a motivated PhD candidate to develop longitudinal multimodal LLM agents for the early detection of prostate cancer progression.<br>
+<style>
+.blink{animation:bl 1s steps(10,start) infinite}
+@keyframes bl{to{visibility:hidden}}
+</style>
 
-We are particularly interested in candidates with a solid background in AI/LLM, medical imaging, computer vision, or machine learning, preferably with prior research experience or publications.<br>
+1. MRC DTP Studentship/Scholarship (<span class="blink">Deadline: Saturday, November 08, 2025</span>): <a href="https://www.findaphd.com/phds/project/mrc-dtp-early-detection-of-prostate-cancer-progression-with-longitudinal-multimodal-llm-agents/?p187159" target="_blank" rel="noopener"> Early Detection of Prostate Cancer Progression with Longitudinal Multimodal LLM Agents</a>
 
-📩 Interested? Contact me to discuss suitability before applying via: [MRC DTP PhD Programme](https://www.findaphd.com/phds/project/mrc-dtp-early-detection-of-prostate-cancer-progression-with-longitudinal-multimodal-llm-agents/?p187159)
-<!-- </font> -->
+2. Bicentenary Studentship/Scholarship (<span class="blink">Deadline: Saturday, November 15, 2025</span>): <a href="https://www.findaphd.com/phds/project/bicentenary-interactive-vision-language-foundation-models-for-decision-support-in-pathological-stratification-of-appendix-cancers/?p187373" target="_blank" rel="noopener"> Interactive Vision-Language Foundation Models for Decision Support in Pathological Stratification of Appendix Cancers</a>
+
 
 Bio
 ---
 
-Dr Mobarak Hoque is an Associate Professor (Senior Lecturer) in Multimodal Agentic AI for Healthcare, at the Division of Informatics, Imaging and Data Science, [University of manchester](https://www.manchester.ac.uk/). He also currently appointed as an honorary senior research fellow positions at University College London. He holds a PhD in AI from the National University of Singapore and was a postdoctoral researcher at the Hawkes Institute at UCL, and the BioMedIA group at Imperial College London. Before his academic career, he gained extensive industry experience in real-world translation of machine learning and computer vision research as a Senior Software Engineer at Samsung R&D Institute.
+Dr Mobarak Hoque is an __Associate Professor__ (Senior Lecturer) in Multimodal Agentic AI for Healthcare, at the Division of Informatics, Imaging and Data Science, [University of manchester](https://www.manchester.ac.uk/). He also currently appointed as an honorary senior research fellow positions at University College London. He holds a PhD in AI from the National University of Singapore and was a postdoctoral researcher at the Hawkes Institute at UCL, and the BioMedIA group at Imperial College London. Before his academic career, he gained extensive industry experience in real-world translation of machine learning and computer vision research as a Senior Software Engineer at Samsung R&D Institute.
+
+His pioneering work on multimodal medical imaging AI has been widely recognised by leading international groups across academia and industry. His research focuses on developing safe, trustworthy, and adaptive multimodal large vision-language models and AI agents for medical imaging and surgical intelligence. He has published over 100 papers in top-tier peer-reviewed journals and conferences in medical imaging AI and multimodal LLM. He serves as Area Chair and Session Chair for MICCAI (2022–2025) and IPCAI (2024–2026), Senior Program Committee Member for AAAI 2026, and Organising/Programme Committee Member for several international workshops, including [MICCAI-DART (2022–2023)](https://sites.google.com/view/dart2023/home), [MICCAI-UNSURE 2025](https://unsuremiccai.github.io/), and [IROS-C4SR+ 2025](https://sites.google.com/view/iros-2025-c4sr/). He also serves on the Editorial Board of Nature Scientific Reports.
 
 
 Research Interests
@@ -43,6 +39,147 @@ Research Interests
     </ul>
 </div>
 
+![MLLM Agent for Healthcare](images/MLLM_Agent_Healthcare.PNG)
+
+
+Team Updates
+---
+
+<div id="news-wrap" style="max-width:1100px;margin:0 auto;position:relative;">
+  <button id="news-prev" aria-label="Previous"
+          style="position:absolute;left:-6px;top:45%;transform:translateY(-50%);
+                 width:36px;height:36px;border:1px solid #ddd;border-radius:50%;
+                 background:#fff;cursor:pointer;">‹</button>
+
+  <button id="news-next" aria-label="Next"
+          style="position:absolute;right:-6px;top:45%;transform:translateY(-50%);
+                 width:36px;height:36px;border:1px solid #ddd;border-radius:50%;
+                 background:#fff;cursor:pointer;">›</button>
+
+  <div id="news-grid"
+       style="display:grid;grid-template-columns:repeat(4,1fr);gap:16px;padding:12px 28px 4px 28px;">
+  </div>
+</div>
+
+<script>
+  // Edit your items
+  const newsItems = [
+    {
+      src: "images/EMA_Keynote.jpg", date: "23 Sep 2025",
+      caption: 'Dr Hoque is giving a keynote at <a href="https://sites.google.com/view/ema4miccai2025" target="_blank" rel="noopener">EMA4MICCAI 2025</a>',
+      href: null   
+    },
+    { 
+	    src: "images/Oral_Chairing.jpeg", date: "26 Sep 2025",  
+		caption: 'Dr Hoque is serving as co-chair of an oral session at <a href="https://conferences.miccai.org/2025/en/" target="_blank" rel="noopener">MICCAI 2025</a>', 
+		href: null },
+    { 
+		src: "images/SurgVU.PNG", date: "27 Sep 2025", 
+		caption: 'UoM-SurgicalAI won (&#36;2000) runner-up and best report in the 2025 MICCAI <a href="https://surgvu25.grand-challenge.org/" target="_blank" rel="noopener">SurgVU VLM VQA Challenge</a> .',  
+		href: null },
+    { 
+		src: "images/keynote_meta.jpg", date: "14 May 2025", 
+		caption: "Dr Hoque is giving a keynote at <a href='https://www.linkedin.com/posts/giswqs_ai-opensource-activity-7328503910183104513-QfOn/' target='_blank' rel='noopener'>Meta's Open Source AI Summit 2025</a>",     
+		href: null },
+    { src: "images/panel_meat.jpg", date: "14 May 2025", caption: "Panel Discussion at <a href='https://www.linkedin.com/posts/giswqs_ai-opensource-activity-7328503910183104513-QfOn/' target='_blank' rel='noopener'>Meta's Open Source AI Summit 2025</a>", href: null }
+  ];
+
+  const pageSize = 4;
+  let start = 0;
+
+  const grid = document.getElementById("news-grid");
+  const prevBtn = document.getElementById("news-prev");
+  const nextBtn = document.getElementById("news-next");
+
+  function plainText(html){
+    const el = document.createElement('div');
+    el.innerHTML = html;
+    return (el.textContent || el.innerText || '').trim();
+  }
+
+  function cardHTML(item) {
+    const photoLink = item.href || item.src; // image click target
+    const alt = plainText(item.caption).replace(/"/g, '&quot;');
+    return `
+      <div style="display:block;background:#fff;border:1px solid #e5e5e5;border-radius:10px;overflow:hidden;color:#222;">
+        <a href="${photoLink}" target="_blank" rel="noopener" aria-label="Open image"
+           style="display:block;text-decoration:none;">
+          <img src="${item.src}" alt="${alt}"
+               style="width:100%;height:160px;object-fit:cover;display:block;">
+        </a>
+        <div style="padding:10px 12px 12px 12px;">
+          <div style="text-align:center;color:#666;font-size:14px;margin:2px 0 8px 0;">${item.date}</div>
+          <div class="news-caption" style="text-align:center;font-size:13px;line-height:1.35;"></div>
+        </div>
+      </div>
+    `;
+  }
+
+  function render() {
+    const slice = newsItems.slice(start, start + pageSize);
+    grid.innerHTML = slice.map(cardHTML).join("");
+
+    // inject caption HTML so links in captions are clickable
+    const nodes = grid.querySelectorAll(".news-caption");
+    nodes.forEach((node, i) => { node.innerHTML = slice[i].caption; });
+
+    prevBtn.disabled = start === 0;
+    nextBtn.disabled = start + pageSize >= newsItems.length;
+    prevBtn.style.opacity = prevBtn.disabled ? "0.4" : "1";
+    nextBtn.style.opacity = nextBtn.disabled ? "0.4" : "1";
+  }
+
+  prevBtn.addEventListener("click", () => {
+    if (start > 0) { start = Math.max(0, start - pageSize); render(); }
+  });
+  nextBtn.addEventListener("click", () => {
+    if (start + pageSize < newsItems.length) { start = start + pageSize; render(); }
+  });
+
+  document.addEventListener("keydown", e => {
+    if (e.key === "ArrowLeft") prevBtn.click();
+    if (e.key === "ArrowRight") nextBtn.click();
+  });
+
+  render();
+</script>
+
+
+
+
+
+<!-- <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center;">
+  <a href="/news/post-1/" style="text-decoration:none; color:inherit;">
+    <figure style="width:260px; margin:0; background:#fff; border:1px solid #e5e5e5; border-radius:10px; overflow:hidden;">
+      <img src="/images/img1.png" alt="MICCAI poster" loading="lazy"
+           style="display:block; width:100%; height:160px; object-fit:cover;">
+      <figcaption style="padding:12px; text-align:center; font-size:16px;">
+        Attending MICCAI 2025 in Daejeon
+      </figcaption>
+    </figure>
+  </a>
+
+  <a href="/news/post-2/" style="text-decoration:none; color:inherit;">
+    <figure style="width:260px; margin:0; background:#fff; border:1px solid #e5e5e5; border-radius:10px; overflow:hidden;">
+      <img src="/images/img2.png" alt="Award day" loading="lazy"
+           style="display:block; width:100%; height:160px; object-fit:cover;">
+      <figcaption style="padding:12px; text-align:center; font-size:16px;">
+        Award for Best Paper
+      </figcaption>
+    </figure>
+  </a>
+
+  <a href="/news/post-3/" style="text-decoration:none; color:inherit;">
+    <figure style="width:260px; margin:0; background:#fff; border:1px solid #e5e5e5; border-radius:10px; overflow:hidden;">
+      <img src="/images/img3.png" alt="Lab visit" loading="lazy"
+           style="display:block; width:100%; height:160px; object-fit:cover;">
+      <figcaption style="padding:12px; text-align:center; font-size:16px;">
+        Research Visit to FAU
+      </figcaption>
+    </figure>
+  </a>
+</div> -->
+
 
 News
 ----
@@ -50,6 +187,9 @@ News
 <!-- <div style="height: 280px; overflow: auto;"> -->
 <div style="position:relative;height:280px;overflow-y:scroll;padding:12px 16px;border:1px solid #e0e0e0;border-radius:8px;background:#fff;">
 <ul>
+  <li>
+	[11/2024] Serving as the Senior Program Committee at AAAI 2026.
+  </li>
   <li>
 		[10/2025] Congratulations to the Team for being the Runner-up ($2000) in the 2025 MICCAI EndoVis SurgVU VLM VQA Challenge.
 	</li>
@@ -62,7 +202,7 @@ News
   <li>
 		[10/2025] Presenting 4 papers this year, including 2 early acceptances with oral and my students earning recognitions including "Young Scientist Award", a "Paper Highlight Selection", and a "Best Paper Shortlist" at <a href="https://conferences.miccai.org/2025/en/" target="_blank">MICCAI 2025</a>.
 	</li>
-  <li>
+    <li>
 		[11/2024] Honored to have received the IEEE TMI Distinguished Reviewer Award for 2023-2024
 	</li>
   <li>
@@ -187,7 +327,7 @@ News
   <div style="position:sticky;bottom:0;height:28px;background:linear-gradient(to bottom, rgba(255,255,255,0), #fff 70%);pointer-events:none;"></div>
 
   <!-- small sticky hint -->
-  <div style="position:sticky;bottom:6px;text-align:center;font:500 12px/1.2 system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;color:#666;pointer-events:none;">
+  <div style="position:sticky;bottom:2px;text-align:center;font:500 12px/1.2 system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;color:#666;pointer-events:none;">
     Scroll for more
   </div>
 </div>
