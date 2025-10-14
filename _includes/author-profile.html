@@ -4,15 +4,25 @@
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
+{% assign avatar_url = author.avatar %}
+{% unless avatar_url contains '://' %}
+  {% assign avatar_url = avatar_url | prepend: '/images/' | prepend: base_path %}
+{% endunless %}
+
 <div itemscope itemtype="http://schema.org/Person">
 
-  <div class="author__avatar">
+  <!-- <div class="author__avatar">
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
     {% endif %}
-  </div>
+  </div> -->
+  <div class="author__avatar">
+  <a href="{{ avatar_url }}" target="_blank" rel="noopener">
+    <img src="{{ avatar_url }}" alt="{{ author.name }}" class="author__avatar">
+  </a>
+</div>
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>

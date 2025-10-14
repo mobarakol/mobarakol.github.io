@@ -39,7 +39,7 @@ Research Interests
     </ul>
 </div>
 
-![MLLM Agent for Healthcare](images/MLLM_Agent_Healthcare.png){: width="750" }
+[![MLLM Agent for Healthcare](images/MLLM_Agent_Healthcare.png){: width="750" }](images/MLLM_Agent_Healthcare.png)
 
 
 Team Updates
