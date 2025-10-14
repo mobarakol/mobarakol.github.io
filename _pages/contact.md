@@ -22,7 +22,7 @@ Email: mobarak.hoque@manchester.ac.uk
 
   <!-- Left: image -->
   <div style="flex:1 1 380px; min-width:280px; height:350px;">
-    <img src="/images/uom_campus.PNG" alt="UoM campus"
+    <img src="/images/uom_campus.png" alt="UoM campus"
          style="width:100%; height:100%; object-fit:cover; border-radius:8px;">
   </div>
 

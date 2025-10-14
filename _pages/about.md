@@ -74,7 +74,7 @@ Team Updates
 		caption: 'Dr Hoque is serving as co-chair of an oral session at <a href="https://conferences.miccai.org/2025/en/" target="_blank" rel="noopener">MICCAI 2025</a>', 
 		href: null },
     { 
-		src: "images/SurgVU.PNG", date: "27 Sep 2025", 
+		src: "images/SurgVU.png", date: "27 Sep 2025", 
 		caption: 'UoM-SurgicalAI won (&#36;2000) runner-up and best report in the 2025 MICCAI <a href="https://surgvu25.grand-challenge.org/" target="_blank" rel="noopener">SurgVU VLM VQA Challenge</a> .',  
 		href: null },
     { 
