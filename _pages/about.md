@@ -39,7 +39,7 @@ Research Interests
     </ul>
 </div>
 
-![MLLM Agent for Healthcare](images/MLLM_Agent_Healthcare.png)
+![MLLM Agent for Healthcare](images/MLLM_Agent_Healthcare.png){: width="750" }
 
 
 Team Updates
@@ -52,43 +52,6 @@ Team Updates
 </div>
 
 <script src="/assets/js/news.js"></script>
-
-
-
-
-
-
-<!-- <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center;">
-  <a href="/news/post-1/" style="text-decoration:none; color:inherit;">
-    <figure style="width:260px; margin:0; background:#fff; border:1px solid #e5e5e5; border-radius:10px; overflow:hidden;">
-      <img src="/images/img1.png" alt="MICCAI poster" loading="lazy"
-           style="display:block; width:100%; height:160px; object-fit:cover;">
-      <figcaption style="padding:12px; text-align:center; font-size:16px;">
-        Attending MICCAI 2025 in Daejeon
-      </figcaption>
-    </figure>
-  </a>
-
-  <a href="/news/post-2/" style="text-decoration:none; color:inherit;">
-    <figure style="width:260px; margin:0; background:#fff; border:1px solid #e5e5e5; border-radius:10px; overflow:hidden;">
-      <img src="/images/img2.png" alt="Award day" loading="lazy"
-           style="display:block; width:100%; height:160px; object-fit:cover;">
-      <figcaption style="padding:12px; text-align:center; font-size:16px;">
-        Award for Best Paper
-      </figcaption>
-    </figure>
-  </a>
-
-  <a href="/news/post-3/" style="text-decoration:none; color:inherit;">
-    <figure style="width:260px; margin:0; background:#fff; border:1px solid #e5e5e5; border-radius:10px; overflow:hidden;">
-      <img src="/images/img3.png" alt="Lab visit" loading="lazy"
-           style="display:block; width:100%; height:160px; object-fit:cover;">
-      <figcaption style="padding:12px; text-align:center; font-size:16px;">
-        Research Visit to FAU
-      </figcaption>
-    </figure>
-  </a>
-</div> -->
 
 
 News
