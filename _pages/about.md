@@ -23,9 +23,9 @@ redirect_from:
 Bio
 ---
 
-Dr Mobarak Hoque is an __Associate Professor__ (Senior Lecturer) in Multimodal Agentic AI for Healthcare, at the Division of Informatics, Imaging and Data Science, [University of manchester](https://www.manchester.ac.uk/). He also currently appointed as an honorary senior research fellow positions at University College London. He holds a PhD in AI from the National University of Singapore and was a postdoctoral researcher at the Hawkes Institute at UCL, and the BioMedIA group at Imperial College London. Before his academic career, he gained extensive industry experience in real-world translation of machine learning and computer vision research as a Senior Software Engineer at Samsung R&D Institute.
+Dr Mobarak Hoque is an __Associate Professor__ (Senior Lecturer) in Multimodal Agentic AI for Healthcare, at the Division of Informatics, Imaging and Data Science, [University of manchester](https://www.manchester.ac.uk/). He also currently appointed as an honorary senior research fellow positions at University College London. He holds a PhD in AI from the National University of Singapore and was a postdoctoral researcher at the Hawkes Institute at [UCL](https://www.ucl.ac.uk/), and the BioMedIA group at [Imperial College London](https://www.imperial.ac.uk/). Before his academic career, he gained extensive industry experience in real-world translation of machine learning and computer vision research as a Senior Software Engineer at Samsung R&D Institute.
 
-His pioneering work on multimodal medical imaging AI has been widely recognised by leading international groups across academia and industry. His research focuses on developing safe, trustworthy, and adaptive multimodal large vision-language models and AI agents for medical imaging and surgical intelligence. He has published over 100 papers in top-tier peer-reviewed journals and conferences in medical imaging AI and multimodal LLM. He serves as Area Chair and Session Chair for MICCAI (2022–2025) and IPCAI (2024–2026), Senior Program Committee Member for AAAI 2026, and Organising several international workshops, including [MICCAI-DART (2022–2023)](https://sites.google.com/view/dart2023/home), [MICCAI-UNSURE 2025](https://unsuremiccai.github.io/), and [IROS-C4SR+ 2025](https://sites.google.com/view/iros-2025-c4sr/). He also serves on the Editorial Board of Nature Scientific Reports.
+His pioneering work on multimodal medical imaging AI has been widely recognised by leading international groups across academia and industry. His research focuses on developing safe, trustworthy, and adaptive multimodal large vision-language models and AI agents for medical imaging and surgical intelligence. He has published over 100 papers in top-tier peer-reviewed journals and conferences in medical imaging AI and multimodal LLM. He serves as Area Chair and Session Chair for [MICCAI](https://conferences.miccai.org/2025/en/) (2022–2025) and [IPCAI](https://sites.google.com/view/ipcai2026) (2024–2026), Senior Program Committee Member for [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/), and Organising several international workshops, including [MICCAI-DART (2022–2023)](https://sites.google.com/view/dart2023/home), [MICCAI-UNSURE 2025](https://unsuremiccai.github.io/), and [IROS-C4SR+ 2025](https://sites.google.com/view/iros-2025-c4sr/). He also serves on the Editorial Board of [Nature Scientific Reports](https://www.nature.com/srep/).
 
 
 Research Interests
@@ -51,7 +51,8 @@ Team Updates
   <div id="news-grid" style="display:grid;grid-template-columns:repeat(4,1fr);gap:16px;padding:12px 28px 4px 28px;"></div>
 </div>
 
-<script src="/assets/js/news.js"></script>
+<!-- <script src="/assets/js/news.js"></script> -->
+<script src="{{ '/assets/js/news.js?v=' | append: site.github.build_revision | relative_url }}"></script>
 
 
 News
