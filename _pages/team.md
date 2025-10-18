@@ -5,7 +5,34 @@ permalink: /team/
 author_profile: true
 ---
 
-![My team](/images/team_ucl.jpeg)
+<!-- ![My team](/images/team_ucl.jpeg) -->
+<!-- Hero slider -->
+<div id="hero-slider" style="max-width:1100px;margin:0 auto;position:relative;">
+  <!-- image -->
+  <a id="slide-link" href="#" target="_blank" rel="noopener" style="display:block;text-decoration:none;">
+    <img id="slide-img" alt="" style="width:100%;height:auto;display:block;border-radius:10px;">
+  </a>
+
+  <!-- caption -->
+  <div id="slide-caption" style="text-align:center;font-size:16px;line-height:1.35;margin-top:8px;"></div>
+
+  <!-- arrows -->
+  <button id="slide-prev" aria-label="Previous"
+          style="position:absolute;left:6px;top:45%;transform:translateY(-50%);
+                 width:36px;height:36px;border:1px solid #ddd;border-radius:50%;
+                 background:#fff;cursor:pointer;">‹</button>
+
+  <button id="slide-next" aria-label="Next"
+          style="position:absolute;right:6px;top:45%;transform:translateY(-50%);
+                 width:36px;height:36px;border:1px solid #ddd;border-radius:50%;
+                 background:#fff;cursor:pointer;">›</button>
+
+  <!-- dots -->
+  <div id="slide-dots" style="text-align:center;margin-top:10px;"></div>
+</div>
+
+<!-- Load the slider JS (cache-busted for GitHub Pages) -->
+<script src="{{ '/assets/js/slider.js?v=' | append: site.github.build_revision | relative_url }}"></script>
 
 Join us
 ------
