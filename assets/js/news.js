@@ -13,6 +13,8 @@ const newsItems = [
     caption: 'Dr Hoque is serving as co-chair of an oral session at <a href="https://conferences.miccai.org/2025/en/" target="_blank" rel="noopener">MICCAI 2025</a>', href: null },
   { src: "/images/SurgVU.png",           date: "27 Sep 2025",
     caption: 'Won ($2500) runner-up & best report in MICCAI <a href="https://surgvu25.grand-challenge.org/" target="_blank" rel="noopener">SurgVU VQA</a>.', href: null },
+  { src: "/images/UNSURE.jpeg",           date: "27 Sep 2025",
+    caption: 'Organisation and panel discussion at <a href="https://unsuremiccai.github.io/" target="_blank" rel="noopener">MICCAI UNSURE 2025</a>.', href: null },
   { src: "/images/keynote_meta.jpg",     date: "14 May 2025",
     caption: "Dr Hoque is giving a keynote at <a href='https://www.linkedin.com/posts/giswqs_ai-opensource-activity-7328503910183104513-QfOn/' target='_blank' rel='noopener'>Meta Open Source AI Summit 2025</a>", href: null },
   { src: "/images/SDS_summer_school.jpeg", date: "9 Jun 2025",

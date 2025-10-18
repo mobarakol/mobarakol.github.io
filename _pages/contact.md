@@ -12,6 +12,7 @@ Dr Mobarak Hoque<br>
 Associate Professor (Senior Lecturer)<br>
 Division of Informatics, Imaging and Data Science<br>
 School of Health Sciences<br>
+Faculty of Biology, Medicine and Health<br>
 The University of Manchester<br>
 Email: mobarak.hoque@manchester.ac.uk<br>
 Address: Stopford Building, Oxford Road, Manchester, M13 9PT 
