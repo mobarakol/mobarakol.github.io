@@ -8,6 +8,10 @@ author_profile: true
 
 For a full list of our publications, please refer to my [Google Scholar profile](https://scholar.google.com.sg/citations?user=QUwym50AAAAJ&hl=en).
 
+<div id="pubs-root">
+  <p>Loading publications...</p>
+</div>
 
-[Google Scholar – citations bar chart](https://scholar.google.com/citations?user=QUwym50AAAAJ&hl=en)
+<script src="{{ '/assets/js/pubs_chicago.js?v=' | append: site.github.build_revision | relative_url }}"></script>
+
 
