@@ -31,12 +31,14 @@ author_profile: true
 </div>
 
 
+<br>
 
-<!-- # <span style="color:red">Openings ✨</span>
+# Additional Departmental Scholarships
 
-1. MRC DTP Studentship/Scholarship (Deadline: Saturday, November 08, 2025): <a href="https://www.findaphd.com/phds/project/mrc-dtp-early-detection-of-prostate-cancer-progression-with-longitudinal-multimodal-llm-agents/?p187159" target="_blank" rel="noopener"> Early Detection of Prostate Cancer Progression with Longitudinal Multimodal LLM Agents</a>
+1. President's Doctoral Scholar Award: <a href="https://www.bmh.manchester.ac.uk/study/research/funding-fees/funded-programmes/presidents-doctoral-scholar-award/" target="_blank" rel="noopener"> The awards are allocated to our most outstanding international (non-UK) candidates seeking PhD opportunities at Manchester and are open to all nationalities and research areas.</a> 
 
-2. Bicentenary Studentship/Scholarship (Deadline: Saturday, November 15, 2025): <a href="https://www.findaphd.com/phds/project/bicentenary-interactive-vision-language-foundation-models-for-decision-support-in-pathological-stratification-of-appendix-cancers/?p187373" target="_blank" rel="noopener"> Interactive Vision-Language Foundation Models for Decision Support in Pathological Stratification of Appendix Cancers</a> -->
+2. Excellence in Diversity PhD Scholarships: <a href="https://www.bmh.manchester.ac.uk/study/research/funding-fees/funded-programmes/diversityscholarship/?utm_source=findaphd_specialist_page_diversity&utm_medium=referral&utm_campaign=bmh_pgr_26" target="_blank" rel="noopener"> Fully funded PhD scholarships for candidates from groups under-represented in postgraduate research</a>
+
 <br>
 
 # Self-funded Openings
@@ -49,13 +51,12 @@ author_profile: true
 # Others Scholarships
 
 **Commonwealth Phd Scholarship**
-- for both students from certain [low-income countries](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-fragile-states/) and certain [high-income contries](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-high-income-countries/)
+- For both students from certain [low-income countries](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-fragile-states/) and certain [high-income contries](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-high-income-countries/)
 
 
 **External Project Opportunities**
 We are also happy to support strong applicants for their applications via external funding body, with industry partners. 
-- [royalcommission1851.org](https://royalcommission1851.org/fellowships/industrial-fellowships). Please note that this is very competitive. The applicant must have a good first degree in engineering, science, medicine or design. At the time of applying, you must be (1):  currently employed by a UK-based company or (2) 1-year or 2-year CDT/Case PhD students strongly coupled with company in UK; and working on a research and/or development topic potentially leading to a
-patent, product, process or service in conjunction with a higher academic award. 
+- [royalcommission1851.org](https://royalcommission1851.org/fellowships/industrial-fellowships). Please note that this is very competitive. The applicant must have a good first degree in engineering, science, medicine or design. At the time of applying, you must be (1):  currently employed by a UK-based company or (2) 1-year or 2-year CDT/Case PhD students strongly coupled with company in UK; and working on a research and/or development topic potentially leading to a patent, product, process or service in conjunction with a higher academic award. 
 
 <br>
 # Visiting opportunities

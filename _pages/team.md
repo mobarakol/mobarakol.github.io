@@ -14,11 +14,17 @@ We have opening positions for PhD/MSc/Visiting/Exchange students see [Vacancies]
 
 Alumni
 ------
-
+* [Shreyas Dhake](https://www.linkedin.com/in/shreyas-dhake-074ab6220/) (MSc at UCL, 2024-2025, Now PhD Student at UCL).
+* [Jiayuan Huang](https://www.linkedin.com/in/jiayuan-huang-070a1b33a/) (MSc at UCL, 2024-2025, Now PhD Student at King's College London).
 * [Xiaowei Shi](https://xiaowshi.github.io/) (MSc at UCL, 2023-2024, Now Software engineer @Shopee).
 * [Yuyang Sheng](https://github.com/YuyangSheng/) (MSc at UCL, 2023-2024, Now Research engineer @Alibaba).
 * [Urvi Dudeja](https://github.com/dudeurv) (BSc at UCL, 2023-2024).
 * [Sergi Kavtaradze](https://www.linkedin.com/in/sergi-kavtaradze-2762b9200/) (BSc at UCL, 2023-2024).
-* [Bohua Peng](https://scholar.google.co.uk/citations?hl=hr&user=FCN66LoAAAAJ&hl=en) (MSc at Imperial, 2022-2023, Now PhD Student @Sheffield).
-* [Navodini Wijethilake](https://scholar.google.com/citations?user=STvTJhYAAAAJ&hl=en) (Exchange at NUS, 2018-2019, Now PhD Student @King's).
+* [Bohua Peng](https://scholar.google.co.uk/citations?hl=hr&user=FCN66LoAAAAJ&hl=en) (MSc at Imperial, 2022-2023, Now PhD Student at University of Sheffield).
+* [Navodini Wijethilake](https://scholar.google.com/citations?user=STvTJhYAAAAJ&hl=en) (Exchange at NUS, 2018-2019, Now PhD Student at King's College London).
+* [Vibashan VS](https://vibashan.github.io/) (Exchange at NUS, 2018-2019, Now PhD at Johns Hopkins University).
+* [Jeya Maria Jose](https://jeya-maria-jose.github.io/research/) (Exchange at NUS, 2017-2018, Now Senior Researcher at Microsoft Research).
+* [Ravikiran Ramesh](https://www.linkedin.com/in/ravikiran259/) (Exchange at NUS, 2017-2018, Now ML Engineer, MSc at Texas A&M University).
+* [Daniel Atputharuban](https://scholar.google.com/citations?user=hXlQYEMAAAAJ&hl=en) (Exchange at NUS, 2017-2018, Now PhD at University College Dublin).
+
 
