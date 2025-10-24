@@ -226,5 +226,5 @@ Awards and honours
 Contact
 -------
 
-- Email: mobarak dot hoque at manchester dot ac dot uk
+- Email: mobarak.hoque at manchester.ac.uk
 - Address: Stopford Building, Oxford Road, Manchester, M13 9PT 
