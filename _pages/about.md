@@ -19,6 +19,8 @@ redirect_from:
 
 2. Bicentenary Studentship/Scholarship (<span class="blink">Deadline: Saturday, November 15, 2025</span>): <a href="https://www.findaphd.com/phds/project/bicentenary-interactive-vision-language-foundation-models-for-decision-support-in-pathological-stratification-of-appendix-cancers/?p187373" target="_blank" rel="noopener"> Interactive Vision-Language Foundation Models for Decision Support in Pathological Stratification of Appendix Cancers</a>
 
+3. See all other [Vacancies](https://mobarakol.github.io/vacancies/)
+
 
 Bio
 ---
