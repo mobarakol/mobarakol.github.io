@@ -20,7 +20,9 @@ const newsItems = [
   { src: "/images/SDS_summer_school.jpeg", date: "9 Jun 2025",
     caption: "Invited lecture at <a href='https://www.edu4sds.org/' target='_blank' rel='noopener'>Surgical Data Science Summer School 2025</a>", href: null },
   { src: "/images/panel_discussion.jpg", date: "14 May 2025",
-    caption: "Panel discussion at <a href='https://www.linkedin.com/posts/giswqs_ai-opensource-activity-7328503910183104513-QfOn/' target='_blank' rel='noopener'>Meta Open Source AI Summit 2025</a>", href: null }
+    caption: "Panel discussion at <a href='https://www.linkedin.com/posts/giswqs_ai-opensource-activity-7328503910183104513-QfOn/' target='_blank' rel='noopener'>Meta Open Source AI Summit 2025</a>", href: null },
+  { src: "/images/brats2024.jpeg", date: "06 Oct 2024",
+    caption: "Collab. team with LabREN runner-up at <a href='https://www.synapse.org/Synapse:syn53708249/wiki/626323' target='_blank' rel='noopener'> BRATS2024 challenge</a>", href: null }
 ];
 
 let start = 0;            // index of first visible item in the grid
