@@ -1,12 +1,14 @@
 /* ===== config ===== */
 const VISIBLE = 4;               // show 4 items
 const STEP = 1;                  // slide by 1 item
-const AUTO_ADVANCE_MS = 4000;    // change every 4s
+const AUTO_ADVANCE_MS = 10000;    // change every 4s
 const AUTOPLAY = true;
 /* ================== */
 
 /* Edit your items */
 const newsItems = [
+  { src: "/images/iids_uom.jpeg",      date: "17 Dec 2025",
+    caption: 'Dr Hoque is giving a talk at IIDS Open Meeting, UoM', href: null },
   { src: "/images/EMA_Keynote.jpg",      date: "23 Sep 2025",
     caption: 'Dr Hoque is giving a keynote at <a href="https://sites.google.com/view/ema4miccai2025" target="_blank" rel="noopener">EMA4MICCAI 2025</a>', href: null },
   { src: "/images/Oral_Chairing.jpeg",   date: "26 Sep 2025",
