@@ -15,11 +15,12 @@ redirect_from:
 @keyframes bl{to{visibility:hidden}}
 </style>
 
-1. MRC DTP Studentship/Scholarship (<span class="blink">Deadline: Saturday, November 08, 2025</span>): <a href="https://www.findaphd.com/phds/project/mrc-dtp-early-detection-of-prostate-cancer-progression-with-longitudinal-multimodal-llm-agents/?p187159" target="_blank" rel="noopener"> Early Detection of Prostate Cancer Progression with Longitudinal Multimodal LLM Agents</a>
+<!-- 1. MRC DTP Studentship/Scholarship (<span class="blink">Deadline: Saturday, November 08, 2025</span>): <a href="https://www.findaphd.com/phds/project/mrc-dtp-early-detection-of-prostate-cancer-progression-with-longitudinal-multimodal-llm-agents/?p187159" target="_blank" rel="noopener"> Early Detection of Prostate Cancer Progression with Longitudinal Multimodal LLM Agents</a>
 
-2. Bicentenary Studentship/Scholarship (<span class="blink">Deadline: Saturday, November 15, 2025</span>): <a href="https://www.findaphd.com/phds/project/bicentenary-interactive-vision-language-foundation-models-for-decision-support-in-pathological-stratification-of-appendix-cancers/?p187373" target="_blank" rel="noopener"> Interactive Vision-Language Foundation Models for Decision Support in Pathological Stratification of Appendix Cancers</a>
+2. Bicentenary Studentship/Scholarship (<span class="blink">Deadline: Saturday, November 15, 2025</span>): <a href="https://www.findaphd.com/phds/project/bicentenary-interactive-vision-language-foundation-models-for-decision-support-in-pathological-stratification-of-appendix-cancers/?p187373" target="_blank" rel="noopener"> Interactive Vision-Language Foundation Models for Decision Support in Pathological Stratification of Appendix Cancers</a> -->
+1. __President’s Doctoral Scholarship PhD__ (Deadline: Monday, March 16, 2026): <a href="https://www.findaphd.com/phds/project/president-s-doctoral-scholar-award-multimodal-llm-based-reasoning-over-environmental-exposure-and-respiratory-disease-severity/?p194324" target="_blank" rel="noopener"> LLM-Based Reasoning over Environmental Exposure and Respiratory Disease Severity</a>
 
-3. See all other [Vacancies](https://mobarakol.github.io/vacancies/)
+2. See all other [Vacancies](https://mobarakol.github.io/vacancies/)
 
 
 Bio
