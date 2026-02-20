@@ -7,6 +7,10 @@ const AUTOPLAY = true;
 
 /* Edit your items */
 const newsItems = [
+  { src: "/images/chairing.jpeg",      date: "24 Jan 2026",
+    caption: 'Dr Hoque is chairing a AAAI 2026 main track session, Singapore', href: null },
+  { src: "/images/team_presenting_aaai.jpeg",      date: "22 Jan 2026",
+    caption: 'Our group is presenting at AAAI 2026, Singapore', href: null },
   { src: "/images/iids_uom.jpeg",      date: "17 Dec 2025",
     caption: 'Dr Hoque is giving a talk at IIDS Open Meeting, UoM', href: null },
   { src: "/images/EMA_Keynote.jpg",      date: "23 Sep 2025",

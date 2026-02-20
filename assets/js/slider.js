@@ -1,10 +1,7 @@
 // Edit your slides here. Use absolute paths starting with / so they work on all pages.
 const slides = [
-  {
-    src: "/images/team_ucl.jpeg",
-    caption: "An usual team discussion!",
-    link: null // optional link when clicking the photo; null opens the image itself
-  },
+  {src: "/images/team_aaai2026.jpeg", caption: "Team is having fun at AAAI 2026, Singapore!",link: null},
+  {src: "/images/team_ucl.jpeg", caption: "An usual team discussion!",link: null},
   { src: "/images/team_ucl2.jpeg", caption: "Time to celebrate!",  link: null },
   { src: "/images/sos_ucl.jpeg", caption: "'Science of Surgery 2025' Demo at UCL",  link: null },
   // { src: "/images/img4.png", caption: "Research visit to FAU",                link: null },

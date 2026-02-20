@@ -34,6 +34,7 @@ author_profile: true
 <!-- Load the slider JS (cache-busted for GitHub Pages) -->
 <script src="{{ '/assets/js/slider.js?v=' | append: site.github.build_revision | relative_url }}"></script>
 
+* [Miriam Amin]() (PhD Student at UoM, 2026).
 * [Jack Baldwin](https://www.jobs.nhs.uk/candidate/jobadvert/C9298-ONC-0408) (DClinSci PhD Student at UoM, 2025).
 * [Luca Carlini](https://www.linkedin.com/in/luca-carlini-italy/) (Exchange PhD Student at UCL, 2025).
 * [Dennis Pierantozzi](https://www.linkedin.com/in/dennispierantozzi/) (Exchange MSc Student at UCL, 2025).
