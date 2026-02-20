@@ -54,7 +54,7 @@ author_profile: true
     <li>
       Self-funded Project-2 (No deadline):
       <a href="https://www.findaphd.com/phds/project/surgical-ai-copilot-multimodal-llm-agent-in-minimally-invasive-surgery/?p186856" target="_blank" rel="noopener">
-        urgical AI Copilot: Multimodal LLM Agent in Minimally Invasive Surgery
+        Surgical AI Copilot: Multimodal LLM Agent in Minimally Invasive Surgery
       </a>
     </li>
 
