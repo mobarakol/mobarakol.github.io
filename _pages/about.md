@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: <marquee scrollamount="4"><span style="color:red">⭐New PhD Openings [Fully Funded] ✨</span></marquee>
+# title: <marquee scrollamount="4"><span style="color:red">⭐New PhD Openings [Fully Funded] ✨</span></marquee>
 # excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,17 +10,17 @@ redirect_from:
 
 <!-- # <marquee scrollamount="4"><span style="color:red">⭐New PhD Openings [Fully Funded] ✨</span></marquee> -->
 
-<style>
+<!-- <style>
 .blink{animation:bl 1s steps(10,start) infinite}
 @keyframes bl{to{visibility:hidden}}
-</style>
+</style> -->
 
 <!-- 1. MRC DTP Studentship/Scholarship (<span class="blink">Deadline: Saturday, November 08, 2025</span>): <a href="https://www.findaphd.com/phds/project/mrc-dtp-early-detection-of-prostate-cancer-progression-with-longitudinal-multimodal-llm-agents/?p187159" target="_blank" rel="noopener"> Early Detection of Prostate Cancer Progression with Longitudinal Multimodal LLM Agents</a>
 
 2. Bicentenary Studentship/Scholarship (<span class="blink">Deadline: Saturday, November 15, 2025</span>): <a href="https://www.findaphd.com/phds/project/bicentenary-interactive-vision-language-foundation-models-for-decision-support-in-pathological-stratification-of-appendix-cancers/?p187373" target="_blank" rel="noopener"> Interactive Vision-Language Foundation Models for Decision Support in Pathological Stratification of Appendix Cancers</a> -->
-1. __President’s Doctoral Scholarship PhD__ (Deadline: Monday, March 16, 2026): <a href="https://www.findaphd.com/phds/project/president-s-doctoral-scholar-award-multimodal-llm-based-reasoning-over-environmental-exposure-and-respiratory-disease-severity/?p194324" target="_blank" rel="noopener"> Multimodal LLM-Based Reasoning over Environmental Exposure and Respiratory Disease Severity</a>
+<!-- 1. __President’s Doctoral Scholarship PhD__ (Deadline: Monday, March 16, 2026): <a href="https://www.findaphd.com/phds/project/president-s-doctoral-scholar-award-multimodal-llm-based-reasoning-over-environmental-exposure-and-respiratory-disease-severity/?p194324" target="_blank" rel="noopener"> Multimodal LLM-Based Reasoning over Environmental Exposure and Respiratory Disease Severity</a>
 
-2. See all other [Vacancies](https://mobarakol.github.io/vacancies/)
+2. See all other [Vacancies](https://mobarakol.github.io/vacancies/) -->
 
 
 Bio
@@ -28,7 +28,7 @@ Bio
 
 Dr Mobarak Hoque is an __Associate Professor__ (Senior Lecturer) in Multimodal Agentic AI for Healthcare, at the Division of Informatics, Imaging and Data Science, [University of Manchester](https://www.manchester.ac.uk/). He also currently appointed as an honorary senior research fellow positions at University College London. He holds a PhD in AI from the National University of Singapore and was a postdoctoral researcher at the Hawkes Institute at [UCL](https://www.ucl.ac.uk/), and the BioMedIA group at [Imperial College London](https://www.imperial.ac.uk/). Before his academic career, he gained extensive industry experience in real-world translation of machine learning and computer vision research as a Senior Software Engineer at Samsung R&D Institute.
 
-His pioneering work on multimodal medical imaging AI has been widely recognised by leading international groups across academia and industry. His research focuses on developing safe, trustworthy, and adaptive multimodal large vision-language models and AI agents for medical imaging and surgical intelligence. He has published over 100 papers in top-tier peer-reviewed journals and conferences in medical imaging AI and multimodal LLM. He serves as Area Chair and Session Chair for [MICCAI](https://conferences.miccai.org/2025/en/) (2022–2025), [IPCAI](https://sites.google.com/view/ipcai2026) (2024–2026), and [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/), and organising several international workshops, including [MICCAI-UNSURE 2025](https://unsuremiccai.github.io/), [MICCAI-DART (2022–2023)](https://sites.google.com/view/dart2023/home), and [IROS-C4SR+ 2025](https://sites.google.com/view/iros-2025-c4sr/). He also serves on the Editorial Board of [Nature Scientific Reports](https://www.nature.com/srep/).
+His pioneering work on multimodal medical imaging AI has been widely recognised by leading international groups across academia and industry. His research focuses on developing safe, trustworthy, and adaptive multimodal large vision-language models and AI agents for medical imaging and surgical intelligence. He has published over 100 papers in top-tier peer-reviewed journals and conferences in medical imaging AI and multimodal LLM. He serves as Area Chair and Session Chair for [MICCAI](https://conferences.miccai.org/2025/en/) (2022–2025), [IPCAI](https://sites.google.com/view/ipcai2026) (2024–2026), and [AAAI](https://aaai.org/conference/aaai/aaai-26/) (2026-2027), and organising several international workshops, including [MICCAI-UNSURE 2026](https://unsuremiccai.github.io/), [EMA4MICCAI 2026](https://sites.google.com/view/ema2026), [MICCAI-DART (2022–2023)](https://sites.google.com/view/dart2023/home), and [IROS-C4SR+ 2025](https://sites.google.com/view/iros-2025-c4sr/). He also serves on the editorial boards of the journals [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition), [Scientific Reports](https://www.nature.com/srep/), and [Medical & Biological Engineering & Computing](https://link.springer.com/journal/11517?srsltid=AfmBOoqu4sCdWO5E-XGgYpMwsR3XofT_DTiDmnolpoHbZbZbgobo7HEZ).
 
 
 Research Interests
@@ -38,7 +38,7 @@ Research Interests
       <li>Mulitmodal LLM Agent in Healthcare</li>
       <li>Medical Imaging AI</li>
       <li>Safe and Trusted AI</li>
-      <li>Biomedical Data Science</li>
+      <li>Foundation Model</li>
     </ul>
 </div>
 
