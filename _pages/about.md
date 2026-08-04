@@ -23,6 +23,20 @@ redirect_from:
 2. See all other [Vacancies](https://mobarakol.github.io/vacancies/) -->
 
 
+Team Updates
+---
+
+<div id="news-wrap" style="max-width:1100px;margin:0 auto;position:relative;">
+  <button id="news-prev" aria-label="Previous" style="position:absolute;left:-6px;top:45%;transform:translateY(-50%);width:36px;height:36px;border:1px solid #ddd;border-radius:50%;background:#fff;cursor:pointer;">‹</button>
+  <button id="news-next" aria-label="Next" style="position:absolute;right:-6px;top:45%;transform:translateY(-50%);width:36px;height:36px;border:1px solid #ddd;border-radius:50%;background:#fff;cursor:pointer;">›</button>
+  <div id="news-grid" style="display:grid;grid-template-columns:repeat(4,1fr);gap:16px;padding:12px 28px 4px 28px;"></div>
+</div>
+
+<!-- <script src="/assets/js/news.js"></script> -->
+<script src="{{ '/assets/js/news.js?v=' | append: site.github.build_revision | relative_url }}"></script>
+
+
+
 Bio
 ---
 
@@ -44,18 +58,6 @@ Research Interests
 
 [![MLLM Agent for Healthcare](images/MLLM_Agent_Healthcare.jpeg){: width="750" }](images/MLLM_Agent_Healthcare.jpeg)
 
-
-Team Updates
----
-
-<div id="news-wrap" style="max-width:1100px;margin:0 auto;position:relative;">
-  <button id="news-prev" aria-label="Previous" style="position:absolute;left:-6px;top:45%;transform:translateY(-50%);width:36px;height:36px;border:1px solid #ddd;border-radius:50%;background:#fff;cursor:pointer;">‹</button>
-  <button id="news-next" aria-label="Next" style="position:absolute;right:-6px;top:45%;transform:translateY(-50%);width:36px;height:36px;border:1px solid #ddd;border-radius:50%;background:#fff;cursor:pointer;">›</button>
-  <div id="news-grid" style="display:grid;grid-template-columns:repeat(4,1fr);gap:16px;padding:12px 28px 4px 28px;"></div>
-</div>
-
-<!-- <script src="/assets/js/news.js"></script> -->
-<script src="{{ '/assets/js/news.js?v=' | append: site.github.build_revision | relative_url }}"></script>
 
 
 News
