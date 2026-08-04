@@ -65,6 +65,12 @@ News
 <div style="position:relative;height:280px;overflow-y:scroll;padding:12px 16px;border:1px solid #e0e0e0;border-radius:8px;background:#fff;">
 <ul>
 	<li>
+		[08/2026] Giving a lecture at the <a href="https://www.ellismcr.org/ss2026" target="_blank">2026 Summer School on Machine Learning for Healthcare and Biology</a> main track.
+  	</li>
+	<li>
+		[07/2026] Giving a talk at the <a href="https://www.bmva.org/meetings/26-05-27-MedicalAgents.html" target="_blank">BMVA Symposium on Advancing Medical Care with AI Agents</a> main track.
+  	</li>
+	<li>
 		[01/2026] Chairing a session on LLM at AAAI 2026 main track, Singapore <a href="https://aaai.org/conference/aaai/aaai-26/" target="_blank">AAAI 2026</a> main track.
   	</li>
 	<li>

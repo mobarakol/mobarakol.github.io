@@ -6,7 +6,11 @@ const AUTOPLAY = true;
 /* ================== */
 
 /* Edit your items */
-const newsItems = [
+const newsItems = [ 
+  { src: "/images/ELLIS_Summer_School2026.jpg",      date: "07 July 2026",
+    caption: 'Dr Hoque is giving a lecture at ELLIS Summer School 2026', href: null },
+  { src: "/images/BMVA2026.png",      date: "27 May 2026",
+    caption: 'Dr Hoque is giving a talk at BMVA symposium 2026, London', href: null },
   { src: "/images/chairing.jpeg",      date: "24 Jan 2026",
     caption: 'Dr Hoque is chairing a AAAI 2026 main track session, Singapore', href: null },
   { src: "/images/team_presenting_aaai.jpeg",      date: "22 Jan 2026",
