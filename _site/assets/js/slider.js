@@ -1,5 +1,6 @@
 // Edit your slides here. Use absolute paths starting with / so they work on all pages.
 const slides = [
+  {src: "/images/HDS_MSc.jpeg", caption: "Health Data Science MSc Dissertation Group",link: null},
   {src: "/images/team_aaai2026.jpeg", caption: "Team is having fun at AAAI 2026, Singapore!",link: null},
   {src: "/images/team_ucl.jpeg", caption: "An usual team discussion!",link: null},
   { src: "/images/team_ucl2.jpeg", caption: "Time to celebrate!",  link: null },

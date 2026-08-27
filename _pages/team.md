@@ -37,10 +37,9 @@ author_profile: true
 * [Miriam Amin]() (PhD Student at UoM, 2026).
 * [Jack Baldwin](https://www.jobs.nhs.uk/candidate/jobadvert/C9298-ONC-0408) (DClinSci PhD Student at UoM, 2025).
 * [Luca Carlini](https://www.linkedin.com/in/luca-carlini-italy/) (Exchange PhD Student at UCL, 2025).
-* [Dennis Pierantozzi](https://www.linkedin.com/in/dennispierantozzi/) (Exchange MSc Student at UCL, 2025).
-* [Mauro Drago](https://www.linkedin.com/in/maurodrago/) (Exchange MSc Student at UCL, 2025).
 * [Runlong He](https://www.linkedin.com/in/runlong-he-3a05342a7/) (PhD Student at UCL, 2025).
-
+* MSc and Summer Researcher: [Junqin Cheng](https://www.linkedin.com/in/junqin-cheng-70524b388/), [Ailing Zhu
+] (https://www.linkedin.com/in/ailing-zhu/)
 
 Join us
 ------
@@ -49,6 +48,8 @@ We have opening positions for PhD/MSc/Visiting/Exchange students see [Vacancies]
 
 Alumni
 ------
+* [Dennis Pierantozzi](https://www.linkedin.com/in/dennispierantozzi/) (Exchange MSc Student at UCL, 2025).
+* [Mauro Drago](https://www.linkedin.com/in/maurodrago/) (Exchange MSc Student at UCL, 2025).
 * [Shreyas Dhake](https://www.linkedin.com/in/shreyas-dhake-074ab6220/) (MSc at UCL, 2024-2025, Now PhD Student at UCL).
 * [Jiayuan Huang](https://www.linkedin.com/in/jiayuan-huang-070a1b33a/) (MSc at UCL, 2024-2025, Now PhD Student at King's College London).
 * [Yun-Chen Lin](https://www.linkedin.com/in/yunchen-lin/) (MSc at UCL, 2024-2025).
