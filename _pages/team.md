@@ -38,8 +38,7 @@ author_profile: true
 * [Jack Baldwin](https://www.jobs.nhs.uk/candidate/jobadvert/C9298-ONC-0408) (DClinSci PhD Student at UoM, 2025).
 * [Luca Carlini](https://www.linkedin.com/in/luca-carlini-italy/) (Exchange PhD Student at UCL, 2025).
 * [Runlong He](https://www.linkedin.com/in/runlong-he-3a05342a7/) (PhD Student at UCL, 2025).
-* MSc and Summer Researcher: [Junqin Cheng](https://www.linkedin.com/in/junqin-cheng-70524b388/), [Ailing Zhu
-] (https://www.linkedin.com/in/ailing-zhu/)
+* MSc and Summer Researcher: [Junqin Cheng](https://www.linkedin.com/in/junqin-cheng-70524b388/), [Ailing Zhu](https://www.linkedin.com/in/ailing-zhu/), [Jiyong Cao](https://www.linkedin.com/in/jiyong-cao-137417387/), Kaile Teng, Hanting Liu, Aoxiang Wang.
 
 Join us
 ------
