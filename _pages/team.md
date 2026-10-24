@@ -33,12 +33,13 @@ author_profile: true
 
 <!-- Load the slider JS (cache-busted for GitHub Pages) -->
 <script src="{{ '/assets/js/slider.js?v=' | append: site.github.build_revision | relative_url }}"></script>
-
-* [Miriam Amin]() (PhD Student at UoM, 2026).
+* [Jikai Chen]() (PhD Student at UoM, 2026).
+* [Farah Mandili]() (PhD Student at UoM, 2026).
+* [Wenhua Wei](https://www.linkedin.com/in/wenhua-wei-454939164/) (PhD Student at UoM, 2026).
+* [Atefe Hassani](https://hassaniatefe.github.io/) (PhD Student at UoM, 2026).
+* [Miriam Amin](https://www.linkedin.com/in/miriam-amin-a4990156/) (PhD Student at UoM, 2026).
 * [Jack Baldwin](https://www.jobs.nhs.uk/candidate/jobadvert/C9298-ONC-0408) (DClinSci PhD Student at UoM, 2025).
-* [Luca Carlini](https://www.linkedin.com/in/luca-carlini-italy/) (Exchange PhD Student at UCL, 2025).
-* [Runlong He](https://www.linkedin.com/in/runlong-he-3a05342a7/) (PhD Student at UCL, 2025).
-* MSc and Summer Researcher: [Junqin Cheng](https://www.linkedin.com/in/junqin-cheng-70524b388/), [Ailing Zhu](https://www.linkedin.com/in/ailing-zhu/), [Jiyong Cao](https://www.linkedin.com/in/jiyong-cao-137417387/), Kaile Teng, Hanting Liu, Aoxiang Wang.
+* MSc Dissertation 2025/26: [Junqin Cheng](https://www.linkedin.com/in/junqin-cheng-70524b388/), [Ailing Zhu](https://www.linkedin.com/in/ailing-zhu/), [Jiyong Cao](https://www.linkedin.com/in/jiyong-cao-137417387/), Kaile Teng, Hanting Liu, Aoxiang Wang.
 
 Join us
 ------
@@ -47,6 +48,9 @@ We have opening positions for PhD/MSc/Visiting/Exchange students see [Vacancies]
 
 Alumni
 ------
+* [Luca Carlini](https://www.linkedin.com/in/luca-carlini-italy/) (Exchange PhD Student at UCL, 2026).
+* [Daniele Di Giorgio]() (Exchange MSc Student at UCL, 2026).
+* [Runlong He](https://www.linkedin.com/in/runlong-he-3a05342a7/) (MSc/PhD Student at UCL, 2025).
 * [Dennis Pierantozzi](https://www.linkedin.com/in/dennispierantozzi/) (Exchange MSc Student at UCL, 2025).
 * [Mauro Drago](https://www.linkedin.com/in/maurodrago/) (Exchange MSc Student at UCL, 2025).
 * [Shreyas Dhake](https://www.linkedin.com/in/shreyas-dhake-074ab6220/) (MSc at UCL, 2024-2025, Now PhD Student at UCL).

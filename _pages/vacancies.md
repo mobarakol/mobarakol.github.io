@@ -8,23 +8,31 @@ author_profile: true
 
 
 <!-- <div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px 18px; background:#fafafa;"> -->
-<!-- <div style="border:1px solid #e5e7eb; border-left:6px solid #ef4444; border-radius:12px; padding:16px 18px; background:#fafafa;">
+<div style="border:1px solid #e5e7eb; border-left:6px solid #ef4444; border-radius:12px; padding:16px 18px; background:#fafafa;">
 
   <h2 style="margin:0 0 10px 0; font-size:24px; text-align:center;">
-    <span style="color:red">New PhD Openings ✨[Fully Funded]</span>
+    <span style="color:red">Faculty-wise PhD Openings ✨[Fully Funded]</span>
   </h2>
 
   <ol style="margin:0; padding-left:22px; line-height:1.5;">
-    <li>
-      President’s Doctoral Scholarship PhD (Deadline: Monday, March 16, 2026):
-      <a href="https://www.findaphd.com/phds/project/president-s-doctoral-scholar-award-multimodal-llm-based-reasoning-over-environmental-exposure-and-respiratory-disease-severity/?p194324" target="_blank" rel="noopener">
-        Multimodal LLM-Based Reasoning over Environmental Exposure and Respiratory Disease Severity
+    <li> 
+      Joint scholarships with the China Scholarship Council (CSC) (Deadline: 11 January, 2027):
+      <a href="https://www.bmh.manchester.ac.uk/study/research/funding-fees/funded-programmes/csc-scholarship/">
+        Fully funded scholarships for Chinese PhD Applicant 
+      </a>
+    </li>
+    <li> 
+      Excellence in Diversity PhD Scholarships (Deadline: 9 November, 2026):
+      <a href="https://www.bmh.manchester.ac.uk/study/research/funding-fees/funded-programmes/diversityscholarship/">
+        Open to UK-domiciled applicants who are from one of the following groups currently under-represented as indicated in the website
       </a>
     </li>
   </ol>
+  
+
 </div>
 
-<br> -->
+<br>
 
 <div style="border:1px solid #e5e7eb; border-left:6px solid #ef4444; border-radius:12px; padding:16px 18px; background:#fafafa;">
 
