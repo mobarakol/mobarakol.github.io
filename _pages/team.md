@@ -35,7 +35,7 @@ author_profile: true
 <script src="{{ '/assets/js/slider.js?v=' | append: site.github.build_revision | relative_url }}"></script>
 * [Jikai Chen]() (PhD Student at UoM, 2026).
 * [Farah Mandili]() (PhD Student at UoM, 2026).
-* [Wenhua Wei](https://www.linkedin.com/in/wenhua-wei-454939164/) (PhD Student at UoM, 2026).
+* [Wenhua Wei](https://wenhua-wei.github.io/) (PhD Student at UoM, 2026).
 * [Atefe Hassani](https://hassaniatefe.github.io/) (PhD Student at UoM, 2026).
 * [Miriam Amin](https://www.linkedin.com/in/miriam-amin-a4990156/) (PhD Student at UoM, 2026).
 * [Jack Baldwin](https://www.jobs.nhs.uk/candidate/jobadvert/C9298-ONC-0408) (DClinSci PhD Student at UoM, 2025).
